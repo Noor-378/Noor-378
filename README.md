@@ -37,9 +37,9 @@
 ###
 
 <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake-dark.svg"width = "600" align="left">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "600" align="left">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "600" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake-dark.svg"width = "700" align="left">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "700" align="left">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "700" align="left">
 </picture>
 
 ###
