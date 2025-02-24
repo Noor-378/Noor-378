@@ -25,3 +25,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Noor-378&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noor-378&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952rq2um2175huk1uron789p7ezkr78nint7apw9p1d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/Noor-378/Noor-378/output/snake.svg" alt="Snake animation" />
+
+###
