@@ -32,14 +32,13 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952rq2um2175huk1uron789p7ezkr78nint7apw9p1d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
 <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake-dark.svg"width = "650" align="left">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "650" align="left">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg"width = "650" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake-dark.svg" align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg" align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Noor-378/Noor-378/output/github-contribution-grid-snake.svg" align="center">
 </picture>
 
 ###
