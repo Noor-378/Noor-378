@@ -25,7 +25,7 @@
 
 
 <div align="left">
-  <img src="[https://streak-stats.demolab.com?user=Noor-378&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noor-378&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak)" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Noor-378&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noor-378&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak)" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Noor-378&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noor-378&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
